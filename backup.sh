@@ -24,7 +24,7 @@ done
 
 #commit
 
-NOW=$(date +"%m-%d-%y")
+NOW=$(date +"%Y-%m-%d")
 cd ~/dotfiles
 git add -A
 git commit -m "$NOW backup"

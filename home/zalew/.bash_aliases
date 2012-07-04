@@ -25,19 +25,6 @@ alias rm="rm -i"
 alias mv="mv -iv"
 alias grep="grep -i"
 
-
-# Make basic commands interactive, and verbose
-alias cp="cp -iv"      # interactive
-alias rm="rm -i"      # interactive
-alias mv="mv -iv"       # interactive, verbose
-alias grep="grep -i"  # ignore case
-
-# Easy to use aliases for frequently used commands
-alias x="exit"
-
-# Clear the screen and list file
-alias cls='clear;ls'
-
 #django shortcuts
 
 DJANGO_PROJECTS_DIR='/home/zalew/webprojects'
