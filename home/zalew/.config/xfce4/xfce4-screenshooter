@@ -1,8 +1,8 @@
-delay=3
+delay=1
 region=1
 action=1
 show_mouse=0
-screenshot_dir=file:/home/zalew/Downloads
-app=gpicview
+screenshot_dir=file:/home/zalew/images
+app=viewnior
 last_user=
 

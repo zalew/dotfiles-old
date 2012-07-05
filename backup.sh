@@ -1,10 +1,12 @@
 #!/bin/sh
 FILES=".config/xfce4
+.config/openbox
+.config/gtk-2.0
 .config/Terminal
+.config/terminator
+.config/tint2
 .config/Thunar
-.config/darktable/darktablerc
 .config/user-dirs.dirs
-.config/autostart/conky.desktop
 .conky
 .conkyrc
 .fonts.conf
@@ -27,8 +29,8 @@ done
 NOW=$(date +"%Y-%m-%d")
 cd ~/dotfiles
 git add -A
-git commit -m "$NOW backup"
-git push -u origin master
+git commit -m "$NOW laptop backup"
+git push -u origin crunchbang
 
 
 exit 0
