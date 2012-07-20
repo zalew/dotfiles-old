@@ -26,7 +26,7 @@
         <value type="int" value="18"/>
       </property>
       <property name="background-style" type="uint" value="0"/>
-      <property name="size" type="uint" value="32"/>
+      <property name="size" type="uint" value="24"/>
       <property name="background-alpha" type="uint" value="100"/>
       <property name="background-color" type="array">
         <value type="uint" value="65535"/>
@@ -164,7 +164,7 @@
     </property>
     <property name="plugin-30" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="13199150123.desktop"/>
+        <value type="string" value="13426077161.desktop"/>
       </property>
     </property>
     <property name="plugin-31" type="string" value="launcher">

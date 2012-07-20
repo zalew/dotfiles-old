@@ -1,7 +1,4 @@
 celcius=true
-loc_code=PLXX0028
-loc_name=Warsaw, Poland
 proxy_fromenv=false
-animation_transitions=false
-label0=289
+animation_transitions=true
 
