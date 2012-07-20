@@ -8,6 +8,7 @@ FILES=".config/xfce4
 .conky
 .conkyrc
 .fonts.conf
+.fonts
 .bash_aliases
 .bashrc
 .zshrc
