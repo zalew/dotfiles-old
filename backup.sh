@@ -13,6 +13,7 @@ FILES=".config/xfce4
 .bashrc
 .zshrc
 .gitconfig
+.git-completion.sh
 lshw.txt"
 
 #copy to backup dir

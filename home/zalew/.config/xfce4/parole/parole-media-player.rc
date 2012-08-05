@@ -1,5 +1,6 @@
 [General]
 enable-subtitle=FALSE
-window-width=758
-window-height=444
+window-width=617
+window-height=436
+aspect-ratio=PAROLE_ASPECT_RATIO_AUTO
 

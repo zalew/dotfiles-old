@@ -27,7 +27,7 @@
       </property>
       <property name="background-style" type="uint" value="0"/>
       <property name="size" type="uint" value="24"/>
-      <property name="background-alpha" type="uint" value="100"/>
+      <property name="background-alpha" type="uint" value="60"/>
       <property name="background-color" type="array">
         <value type="uint" value="65535"/>
         <value type="uint" value="65535"/>
@@ -97,8 +97,8 @@
         <value type="string" value="task manager"/>
         <value type="string" value="skype"/>
         <value type="string" value="ninja-ide"/>
-        <value type="string" value="vidalia"/>
         <value type="string" value="pidgin"/>
+        <value type="string" value="vidalia"/>
         <value type="string" value="bitcoin-qt"/>
         <value type="string" value="clipman"/>
         <value type="string" value="dropbox"/>
