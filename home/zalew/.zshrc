@@ -29,7 +29,7 @@ COMPLETION_WAITING_DOTS="true"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git mercurial python django ruby debian npm)
+plugins=(git mercurial python django ruby debian npm virtualenvwrapper)
 
 source $ZSH/oh-my-zsh.sh
 unsetopt correct_all
@@ -37,6 +37,8 @@ unsetopt correct_all
 #virtual env
 export WORKON_HOME=$HOME/.virtualenvs
 source /usr/local/bin/virtualenvwrapper.sh
+
+source ~/.git-completion.sh
 
 # Customize to your needs...
 export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin

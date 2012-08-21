@@ -221,7 +221,7 @@ bind "set completion-ignore-case on"
 export WORKON_HOME=$HOME/.virtualenvs
 source /usr/local/bin/virtualenvwrapper.sh
 
-
+source ~/.git-completion.sh
 
 
 

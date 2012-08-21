@@ -19,10 +19,10 @@ alias cdclose="eject -t"
 alias ip="ifconfig"
 alias ping='ping -c 10'
 
-alias cp="cp -iv"
-alias cpr="cp -riv"
-alias rm="rm -i"
-alias mv="mv -iv"
+#alias cp="cp -iv"
+#alias cpr="cp -riv"
+#alias rm="rm -i"
+#alias mv="mv -iv"
 alias grep="grep -i"
 
 #django shortcuts
@@ -66,3 +66,4 @@ djsync(){
 
 alias dj="djrunp"
 
+alias eclipse_uncrash="rm -i ~/webprojects/.metadata/.plugins/org.eclipse.core.resources/.snap"
