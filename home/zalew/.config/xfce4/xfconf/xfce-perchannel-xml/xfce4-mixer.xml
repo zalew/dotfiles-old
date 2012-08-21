@@ -3,7 +3,7 @@
 <channel name="xfce4-mixer" version="1.0">
   <property name="active-card" type="string" value="HDAIntelAlsamixer"/>
   <property name="volume-step-size" type="uint" value="5"/>
-  <property name="sound-card" type="string" value="VIAVT1708SOSSMixer"/>
+  <property name="sound-card" type="string" value="HDAIntelAlsamixer"/>
   <property name="sound-cards" type="empty">
     <property name="AK5370Alsamixer" type="array">
       <value type="string" value="Microphone"/>

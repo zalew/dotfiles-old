@@ -14,6 +14,7 @@ FILES=".config/xfce4
 .zshrc
 .gitconfig
 .git-completion.sh
+.pep8
 lshw.txt"
 
 #copy to backup dir
