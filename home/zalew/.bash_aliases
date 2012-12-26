@@ -66,4 +66,4 @@ djsync(){
 
 alias dj="djrunp"
 
-alias eclipse_uncrash="rm -i ~/webprojects/.metadata/.plugins/org.eclipse.core.resources/.snap"
+alias eclipse_uncrash="rm -i ~/projects/.metadata/.plugins/org.eclipse.core.resources/.snap"

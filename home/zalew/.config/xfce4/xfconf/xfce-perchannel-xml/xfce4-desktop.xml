@@ -13,10 +13,10 @@
         </property>
         <property name="color2" type="empty"/>
         <property name="color-style" type="int" value="0"/>
-        <property name="image-path" type="string" value="/home/zalew/Pictures/drzewnekocury.png"/>
+        <property name="image-path" type="string" value="/home/zalew/Pictures/WTWA.png"/>
         <property name="image-show" type="empty"/>
-        <property name="last-image" type="string" value="/home/zalew/Pictures/drzewnekocury.png"/>
-        <property name="last-single-image" type="string" value="/home/zalew/Pictures/drzewnekocury.png"/>
+        <property name="last-image" type="string" value="/home/zalew/Pictures/WTWA.png"/>
+        <property name="last-single-image" type="string" value="/home/zalew/Pictures/WTWA.png"/>
         <property name="image-style" type="int" value="0"/>
       </property>
     </property>

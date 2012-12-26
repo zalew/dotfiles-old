@@ -16,4 +16,7 @@
   <property name="autoburn" type="empty">
     <property name="enabled" type="bool" value="true"/>
   </property>
+  <property name="autoplay-video-cds" type="empty">
+    <property name="enabled" type="bool" value="true"/>
+  </property>
 </channel>

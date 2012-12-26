@@ -16,8 +16,8 @@
         <value type="int" value="3"/>
         <value type="int" value="43"/>
         <value type="int" value="38"/>
-        <value type="int" value="29"/>
         <value type="int" value="6"/>
+        <value type="int" value="29"/>
         <value type="int" value="17"/>
         <value type="int" value="10"/>
         <value type="int" value="22"/>
@@ -27,7 +27,7 @@
       </property>
       <property name="background-style" type="uint" value="0"/>
       <property name="size" type="uint" value="24"/>
-      <property name="background-alpha" type="uint" value="60"/>
+      <property name="background-alpha" type="uint" value="100"/>
       <property name="background-color" type="array">
         <value type="uint" value="65535"/>
         <value type="uint" value="65535"/>
@@ -58,8 +58,9 @@
         <value type="int" value="28"/>
         <value type="int" value="24"/>
         <value type="int" value="2"/>
-        <value type="int" value="15"/>
+        <value type="int" value="26"/>
         <value type="int" value="30"/>
+        <value type="int" value="15"/>
         <value type="int" value="25"/>
         <value type="int" value="19"/>
         <value type="int" value="21"/>
@@ -88,29 +89,6 @@
     <property name="plugin-5" type="string" value="clock">
       <property name="show-frame" type="bool" value="false"/>
       <property name="digital-format" type="string" value="%d.%m.%Y / %a / %R "/>
-    </property>
-    <property name="plugin-6" type="string" value="systray">
-      <property name="names-visible" type="array">
-        <value type="string" value="thunar"/>
-        <value type="string" value="vlc"/>
-        <value type="string" value="firestarter"/>
-        <value type="string" value="task manager"/>
-        <value type="string" value="skype"/>
-        <value type="string" value="ninja-ide"/>
-        <value type="string" value="pidgin"/>
-        <value type="string" value="vidalia"/>
-        <value type="string" value="bitcoin-qt"/>
-        <value type="string" value="clipman"/>
-        <value type="string" value="dropbox"/>
-        <value type="string" value="transmission"/>
-        <value type="string" value="deluge-gtk"/>
-        <value type="string" value="kerneloops-applet"/>
-      </property>
-      <property name="show-frame" type="bool" value="false"/>
-      <property name="names-hidden" type="array">
-        <value type="string" value="wicd-client.py"/>
-        <value type="string" value="xfce4-power-manager"/>
-      </property>
     </property>
     <property name="plugin-7" type="string" value="showdesktop"/>
     <property name="plugin-8" type="string" value="separator">
@@ -252,6 +230,32 @@
     <property name="clipman" type="empty">
       <property name="tweaks" type="empty">
         <property name="never-confirm-history-clear" type="bool" value="true"/>
+      </property>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="names-visible" type="array">
+        <value type="string" value="thunar"/>
+        <value type="string" value="vlc"/>
+        <value type="string" value="x-tile"/>
+        <value type="string" value="task manager"/>
+        <value type="string" value="skype"/>
+        <value type="string" value="pidgin"/>
+        <value type="string" value="vidalia"/>
+        <value type="string" value="clipman"/>
+        <value type="string" value="dropbox"/>
+        <value type="string" value="xfce4-power-manager"/>
+        <value type="string" value="transmission"/>
+        <value type="string" value="notes"/>
+      </property>
+      <property name="names-hidden" type="array">
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="notifications"/>
+      </property>
+      <property name="show-frame" type="bool" value="false"/>
+    </property>
+    <property name="plugin-26" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="13506931241.desktop"/>
       </property>
     </property>
   </property>
