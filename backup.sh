@@ -16,6 +16,7 @@ FILES=".config/xfce4
 .git-completion.sh
 .pep8
 lshw.txt"
+/etc/apt/sources.list
 
 #copy to backup dir
 
