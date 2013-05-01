@@ -1,0 +1,131 @@
+Version 1.01 (08 Dez):
+
+- Go-Home (24 px improved)
+- Bluetooth (improved)
+- Editor (24 px by hand improved)
+- Hardware prop. (new)
+- Computer (16 px by hand improved)
+- System-Monitor (new)
+- Network (improved)
+- USB-Stick (orange & improved)
+- Pidgin (new)
+- Systemcontrol (new)
+- Time-Admin (new)
+- Vlc (new)
+- System-Log-Out (new - created by hand)
+
+Version 1.02:
+
+- Wlan in blocks (blocks [glas effect] and router for choose)
+[the very nice Wlan-Blocks have the GPL-Licence and are from schollidesign] :D
+- add Folder to Archive (new)
+- KeepassX (new)
+- Time-Admin (again, because much nicer ;) new )
+- Categories-Icons (Office, Grafic, Media - new)
+- Skype (new)
+- Realplayer (new)
+- System-Monitor (new again, because more fashion ;) )
+- Optical-Drive (new)
+- Folder (16px by hand corrected and 24px,32px,48px better ;) )
+
+Version 1.03:
+
+- Human-Folders added ;)
+
+Version 1.04:
+
+- Devices
+- Cat. Office
+- FireFox improved
+- Panel-Clock
+- CPU-Frequenz
+- Music-Emblem
+- compatibilty to KDE
+- and many detailed work ;)
+
+Version 1.05:
+
+- new Humanfolders: burn, cd, development, downloads,
+email, games, image, important, mail, print, puplic,
+sound, tar, txt, video and ubuntu ;)
+
+- now compatible with KDE 4 ;)
+- Evolution facelifting
+- many works in detail ...
+
+Version 1.06:
+
+- Humanfolder: sound (new)
+- new Navigator for choose
+- new Icons: Amarok, quicktime, solfege, digikam, pumkin, scilab, octave, screenshooter, scribus, strigi, ...
+- nearly perfect for KDE 4.x
+- many works in detail
+
+Version 1.07:
+
+- light update with fixed errors
+- Deb-Version with Kubuntu-installer (hope it works)
+- new Menu.png
+- Human-Trash included
+- Original Ubuntu-Logo included
+
+Version 1.08:
+
+- Computer (my own art ;) ) GPL
+- play, stop, eject, shuffel, ... GPL
+- Meliae-Trash included
+- add-list and remove GPL
+- new Navy a la Human-Style
+- and some more new Icons (action)
+
+Version 1.09:
+
+- Network-Panel-Icons new
+- gtk-edit smoother
+- Volume for 2pixels smaller
+- Rhythmbox-pause new
+- Battery AC new
+- Wicd-Client in Theme-Folder with HowTo ;)
+- with integrated Folder-Style-Changer for Nautilus (only German and English)
+
+Version 1.09.1:
+
+- Now with working Folder-Style-Changer for Nautilus (English, German, Spain)
+- KDE (Kubuntu) -Users can change the Logos, too. But KDE (18) is the best for them ;)
+
+Version 1.09.2:
+
+- folder-video and folder-image new
+- acroread and audacious new
+- some corrections
+- styled-folders with "Pictures", "Music", "Documents", "Downloads", "Videos", "Public" and "Games".
+Languages: German, English, Spanish, French, Italian, Polish, Portuguese ;)
+
+Version 1.1.2:
+
+- new counting for Versions
+- Styled-Folder-Script for Nautilus (styled-folder-menu.sh) in theme-folder
+- regular-tar.gz-Version is in DeviantArt
+- Deb-Version is in PPA Launchpad
+
+Version 1.1.3:
+
+- new loupes
+- new Pidgin
+- new Xchat
+- adjustments for KDE 4.x
+- and many more ... ;)
+
+Version 1.1.4:
+
+- Kubuntu-folders included
+- changed licence for artist's work to GNU / GPL
+- and many more works in detail ...
+
+Version 1.1.5:
+
+- Kubuntu-folders in perfect state
+- new Totem-icon (in Human-O2-style and closer to the origin)
+- Blocks-Wlan new style
+- trying a new Bluetooth-icon
+- some little details ...

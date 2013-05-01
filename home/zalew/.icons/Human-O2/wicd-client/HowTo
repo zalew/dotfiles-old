@@ -1,0 +1,9 @@
+Wicid-Client:
+
+Berfore copying make sure you did a backup from your wicid-client-Icon!
+For example: /usr/share/pixmaps/wicd/wicd-client_backup.png ;)
+
+Copy now the new wicid-client.png to /usr/share/pixmaps/wicd/
+
+If you use only this Icon ONLY in 24x24 and smaller, so copy the wicid-client24.png
+to /usr/share/pixmaps/wicd/ and rename it to "wicid-client.png".

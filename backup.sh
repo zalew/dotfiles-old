@@ -1,22 +1,20 @@
 #!/bin/sh
-FILES=".config/xfce4
+FILES=".local/share/gnome-shell/extensions
 .config/Terminal
-.config/Thunar
 .config/darktable/darktablerc
 .config/user-dirs.dirs
-.config/autostart/conky.desktop
-.conky
-.conkyrc
-.fonts.conf
-.fonts
+.config/transmission/settings.json
+.icons
+.themes
 .bash_aliases
 .bashrc
 .zshrc
 .gitconfig
 .git-completion.sh
 .pep8
-lshw.txt"
+lshw.txt
 /etc/apt/sources.list
+/etc/apt/sources.list.d/"
 
 #copy to backup dir
 
@@ -32,7 +30,7 @@ NOW=$(date +"%Y-%m-%d")
 cd ~/dotfiles
 git add -A
 git commit -m "$NOW backup"
-git push -u origin master
+git push -u origin ubuntu-gnome-laptop
 
 
 exit 0
