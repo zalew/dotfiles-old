@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg3818"
+   version="1.1"
+   inkscape:version="0.48+devel r12149"
+   sodipodi:docname="document-send.svg">
+  <defs
+     id="defs3820">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient826">
+      <stop
+         style="stop-color:#598113;stop-opacity:1"
+         offset="0"
+         id="stop828" />
+      <stop
+         style="stop-color:#93f030;stop-opacity:1"
+         offset="1"
+         id="stop830" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-461.71429,-504.57148)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient826"
+       id="linearGradient832"
+       x1="486.09668"
+       y1="-546.00665"
+       x2="486.09668"
+       y2="-501.70206"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.290827"
+     inkscape:cx="20.519913"
+     inkscape:cy="24.680371"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3823">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <rect
+       style="fill:url(#linearGradient832);fill-opacity:1;stroke:none"
+       id="rect2991-1-7-2"
+       width="44.000008"
+       height="44.000008"
+       x="1.9999983"
+       y="-1050.3622"
+       ry="1.7824985"
+       transform="scale(1,-1)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 2,1047.6122 0,0.974 c 0,0.9875 0.78854,1.776 1.77604,1.776 l 40.44792,0 c 0.9875,0 1.77604,-0.7885 1.77604,-1.776 l 0,-0.974 c 0,0.9875 -0.78854,1.7761 -1.77604,1.7761 l -40.44792,0 C 2.78854,1049.3883 2,1048.5997 2,1047.6122 Z"
+       id="rect846" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.5372549;stroke:none"
+       d="m 4.32031,1006.9638 c -0.84067,0 -1.53189,0.5862 -1.69011,1.375 0.30765,-0.2566 0.70997,-0.401 1.14584,-0.401 l 40.44792,0 c 0.43587,0 0.83819,0.1445 1.14584,0.401 -0.15822,-0.7888 -0.84944,-1.375 -1.69011,-1.375 L 4.32031,1006.9638 Z"
+       id="path7515" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.39215686;stroke:none"
+       d="m 3.77604,1006.3622 c -0.9875,0 -1.77604,0.7885 -1.77604,1.776 l 0,39.474 c 0,0.7273 0.44002,1.3283 1.05989,1.6042 -0.28356,-0.3055 -0.45832,-0.7172 -0.45832,-1.1745 l 0,-39.3593 c 0,-0.9609 0.75798,-1.7188 1.71874,-1.7188 l 39.35938,0 c 0.96076,0 1.71874,0.7579 1.71874,1.7188 l 0,39.3593 c 0,0.4573 -0.17476,0.869 -0.45832,1.1745 C 45.55998,1048.9405 46,1048.3395 46,1047.6122 l 0,-39.474 c 0,-0.9875 -0.78854,-1.776 -1.77604,-1.776 L 3.77604,1006.3622 Z"
+       id="rect4280" />
+    <g
+       transform="matrix(0.40732368,0,0,0.40732368,-93.422048,112.12648)"
+       id="_x35__content_email"
+       style="fill:#ffffff">
+      <g
+         id="g944"
+         style="fill:#ffffff">
+        <polygon
+           style="fill:#ffffff;fill-rule:evenodd;clip-rule:evenodd"
+           points="321.359,2239.345 288.276,2255.793 255.195,2239.345 255.195,2273.955 321.359,2273.955 "
+           id="polygon946" />
+        <polygon
+           style="fill:#ffffff;fill-rule:evenodd;clip-rule:evenodd"
+           points="321.359,2234.063 321.359,2224.854 255.195,2224.854 255.195,2234.063 288.276,2250.506 "
+           id="polygon948" />
+      </g>
+    </g>
+  </g>
+</svg>
